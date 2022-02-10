@@ -84,7 +84,7 @@ class SingleNeuron(object):
     def plot_decision_boundary(self, X, y, xstring="x", ystring="y"):
         plt.figure(figsize = (10, 8))
         plot_decision_regions(X, y, clf = self)
-        plt.title("Logistic Regression Neuron Decision Boundary", fontsize = 18)
+        plt.title("Neuron Decision Boundary", fontsize = 18)
         plt.xlabel(xstring, fontsize = 15)
         plt.ylabel(ystring, fontsize = 15)
         plt.show()

@@ -1,8 +1,0 @@
-
-from neuron_functions.activation_functions import sign_activation
-from neuron_functions.activation_functions import linear_regression_activation
-from neuron_functions.activation_functions import sigmoid_activation
-
-
-from neuron_functions.cost_functions import mean_sqaured_error
-from neuron_functions.cost_functions import cross_entropy_loss
