@@ -1,1 +1,1 @@
-from model_selection.train_test_split import *
+from custom_ml.model_selection.train_test_split import *
