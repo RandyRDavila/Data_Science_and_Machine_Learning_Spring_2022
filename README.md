@@ -17,7 +17,7 @@
 * (Recommended Supplemental Reading) Machine Learning with Python for Everyone, Addison Wesley Data & Analytics Series, 2020 Pearson Education, by Mark E. Fenner
 
 ### Course Description: 
-This data science course taught at Rice University during the Spring 2022 semester covers algorithms from supervised learning, unsupervised learning, and if time permits, reinforcement learning. We will implement many of the machine learning algorithms from scratch, but will also make use of the Skikit-Learn and Tensorflow libraries. Topics include, but are not limited to:
+This data science course covers algorithms from supervised learning, unsupervised learning, and if time permits, reinforcement learning. We will implement many of the machine learning algorithms from scratch in python, but will also make use of, Scikit-Learn, Keras, and Tensorflow. Topics include, but are not limited to:
 
 - **Data Science Practices**:
     - Python Programming
